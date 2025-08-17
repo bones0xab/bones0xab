@@ -1,6 +1,6 @@
 # Abdelkebir Bouchti 👋
 
-[https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2293298](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)
+<img src"https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
 
 **Master student in Distributed Systems & AI • Cybersecurity enthusiast • Full-Stack developer**
 
