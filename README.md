@@ -8,7 +8,7 @@
 ---
 
 ## About me
-I'm Abdelkebir — I combine a strong academic background in distributed systems and practical experience in web & mobile development with a growing focus on cybersecurity. I love solving real problems (CTFs, pentesting labs) and building secure, maintainable apps. I’m actively looking for an internship where I can contribute, learn, and help improve the security posture of projects. :contentReference[oaicite:1]{index=1}
+I'm Abdelkebir — I combine a strong academic background in distributed systems and practical experience in web & mobile development with a growing focus on cybersecurity. I love solving real problems (CTFs, pentesting labs) and building secure, maintainable apps. I’m actively looking for an internship where I can contribute, learn, and help improve the security posture of projects. 
 
 ---
 
