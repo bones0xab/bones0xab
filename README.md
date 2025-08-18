@@ -1,10 +1,7 @@
 # Abdelkebir Bouchti 👋
 
-<p align="center">
-  <a href="https://tryhackme.com/p/abdlkbir.dacosta" target="_blank">
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2293298" alt="TryHackMe — abdlkbir.dacosta" width="280" />
-  </a>
-</p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/abdlkbir.dacosta.png" alt="Your Image Badge" />
+
 
 **Master student in Distributed Systems & AI • Cybersecurity enthusiast • Full-Stack developer**
 
