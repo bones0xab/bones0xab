@@ -1,7 +1,8 @@
 <h2 align="center">Abdelkebir Bouchti 👋</h2>
 
 
-<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/abdlkbir.dacosta.png" alt="Your Image Badge" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2293298" style='border:none;'></iframe>
+
 
 **Master student in Distributed Systems & AI • Cybersecurity enthusiast • Full-Stack developer**
 
