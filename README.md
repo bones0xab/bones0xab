@@ -4,14 +4,26 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/abdlkbir.dacosta.png" alt="Abdelkebir" />
 
 
-<!-- Profile views -->
-![Profile Views](https://komarev.com/ghpvc/?username=bones0xab&color=blue)
+## 📊 GitHub Metrics
 
-<!-- GitHub stats: commits, PRs, stars -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bones0xab&show_icons=true&count_private=true&theme=dark)](https://github.com/bones0xab)
+<p align="center">
+  <!-- Profile views -->
+  <img src="https://komarev.com/ghpvc/?username=bones0xab&color=blue" alt="profile views" />
 
-<!-- Top languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bones0xab&layout=compact&theme=dark)](https://github.com/bones0xab)
+  <!-- GitHub stats -->
+  <a href="https://github.com/bones0xab">
+    <img src="https://github-readme-stats.vercel.app/api?username=bones0xab&show_icons=true&count_private=true&theme=dark" alt="github stats" />
+  </a>
+
+  <!-- Top languages -->
+  <a href="https://github.com/bones0xab">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bones0xab&layout=compact&theme=dark" alt="top languages" />
+  </a>
+
+  <!-- Streaks & trophies -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bones0xab&theme=dark" alt="streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bones0xab&theme=flat" alt="trophy" />
+</p>
 
 
 
