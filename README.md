@@ -7,8 +7,7 @@
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <!-- Profile views -->
-  <img src="https://komarev.com/ghpvc/?username=bones0xab&color=blue" alt="profile views" />
+
 
   <!-- GitHub stats -->
   <a href="https://github.com/bones0xab">
