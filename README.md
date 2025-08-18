@@ -24,6 +24,6 @@ I'm Abdelkebir — I combine a strong academic background in distributed systems
 
 ## Contact
 - ☎️ **Phone:** +212 6 34 97 91 44   
-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" [https://linkedin.com](https://www.linkedin.com/in/abdelkebir-bouchti-3a80ab243/) />
+- <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />[https://linkedin.com](https://www.linkedin.com/in/abdelkebir-bouchti-3a80ab243/) 
 
 ---
