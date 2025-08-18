@@ -4,6 +4,17 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/abdlkbir.dacosta.png" alt="Abdelkebir" />
 
 
+<!-- Profile views -->
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+
+<!-- GitHub stats: commits, PRs, stars -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=dark)](https://github.com/YOUR_GITHUB_USERNAME)
+
+<!-- Top languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)](https://github.com/YOUR_GITHUB_USERNAME)
+
+
+
 **Master student in Distributed Systems & AI • Cybersecurity enthusiast • Full-Stack developer**
 
 ---
