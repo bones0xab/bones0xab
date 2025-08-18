@@ -22,9 +22,20 @@ I'm Abdelkebir — I combine a strong academic background in distributed systems
 
 ---
 
-![Nmap](https://img.shields.io/badge/Nmap-d32f2f?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-security-ff6f00?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-network-0077be?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-Scan-5CDB95?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-Exploit-FF6B6B?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Proxy-FFB86B?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-Sniffing-4D96FF?style=for-the-badge)
+![SQLmap](https://img.shields.io/badge/SQLmap-SQLi-7C4DFF?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-Scanner-FF7AB6?style=for-the-badge)
+![John the Ripper](https://img.shields.io/badge/John%20The%20Ripper-Crack-FFD93D?style=for-the-badge)
+![Hashcat](https://img.shields.io/badge/Hashcat-GPU-C18CFF?style=for-the-badge)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-WiFi-00C2A8?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-Bruteforce-FF5E5E?style=for-the-badge)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-Scanner-6EE7B7?style=for-the-badge)
+![Netcat](https://img.shields.io/badge/Netcat-Reverse-8A8A8A?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-Dirbuster-6FFFB0?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-Fuzzer-FF9F1C?style=for-the-badge)
 
 ---
 
