@@ -1,7 +1,7 @@
 <h2 align="center">Abdelkebir Bouchti 👋</h2>
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/abdlkbir.dacosta.png" alt="Abdelkebir" />
+[![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2293298)](https://tryhackme.com/p/abdlkbir.dacosta)
 
 
 ## 📊 GitHub Metrics
