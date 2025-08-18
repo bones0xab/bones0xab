@@ -8,21 +8,40 @@
 
 <p align="center">
 
-
-  <!-- GitHub stats -->
-  <a href="https://github.com/bones0xab">
-    <img src="https://github-readme-stats.vercel.app/api?username=bones0xab&show_icons=true&count_private=true&theme=dark" alt="github stats" />
+  <!-- GitHub stats (link) -->
+  <a href="https://github.com/bones0xab" target="_blank" rel="noopener">
+    <img src="https://github-readme-stats.vercel.app/api?username=bones0xab&show_icons=true&count_private=true&theme=dark"
+         alt="GitHub stats — bones0xab"
+         height="140"
+         style="margin:8px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.35);" />
   </a>
 
-  <!-- Top languages -->
-  <a href="https://github.com/bones0xab">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bones0xab&layout=compact&theme=dark" alt="top languages" />
+  <!-- Top languages (link) -->
+  <a href="https://github.com/bones0xab" target="_blank" rel="noopener">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bones0xab&layout=compact&theme=dark"
+         alt="Top languages — bones0xab"
+         height="140"
+         style="margin:8px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.35);" />
   </a>
 
-  <!-- Streaks & trophies -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bones0xab&theme=dark" alt="streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=bones0xab&theme=flat" alt="trophy" />
+  <!-- Streak (link) -->
+  <a href="https://github.com/bones0xab" target="_blank" rel="noopener">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bones0xab&theme=dark"
+         alt="GitHub contribution streak — bones0xab"
+         height="140"
+         style="margin:8px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.35);" />
+  </a>
+
+  <!-- Trophy (link) -->
+  <a href="https://github.com/bones0xab" target="_blank" rel="noopener">
+    <img src="https://github-profile-trophy.vercel.app/?username=bones0xab&theme=flat"
+         alt="Trophies — bones0xab"
+         height="140"
+         style="margin:8px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.35);" />
+  </a>
+
 </p>
+
 
 
 
