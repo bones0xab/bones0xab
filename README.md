@@ -12,16 +12,17 @@
 I'm Abdelkebir — I combine a strong academic background in distributed systems and practical experience in web & mobile development with a growing focus on cybersecurity. I love solving real problems (CTFs, pentesting labs) and building secure, maintainable apps. I’m actively looking for an internship where I can contribute, learn, and help improve the security posture of projects. 
 
 ---
-
+<p align="center">
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
+</p>
 ---
 
+<p align="center">
 ![Nmap](https://img.shields.io/badge/Nmap-Scan-5CDB95?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-Exploit-FF6B6B?style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Proxy-FFB86B?style=for-the-badge)
@@ -36,7 +37,7 @@ I'm Abdelkebir — I combine a strong academic background in distributed systems
 ![Netcat](https://img.shields.io/badge/Netcat-Reverse-8A8A8A?style=for-the-badge)
 ![Gobuster](https://img.shields.io/badge/Gobuster-Dirbuster-6FFFB0?style=for-the-badge)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-Fuzzer-FF9F1C?style=for-the-badge)
-
+</p>
 ---
 
 ## Quick highlights
