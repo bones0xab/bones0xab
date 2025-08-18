@@ -19,6 +19,8 @@ I'm Abdelkebir — I combine a strong academic background in distributed systems
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-557CFF?style=for-the-badge&logo=kali&logoColor=white)
+
 
 ---
 
