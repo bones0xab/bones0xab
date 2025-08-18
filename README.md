@@ -22,6 +22,12 @@ I'm Abdelkebir — I combine a strong academic background in distributed systems
 
 ---
 
+![Nmap](https://img.shields.io/badge/Nmap-d32f2f?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-security-ff6f00?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-network-0077be?style=for-the-badge)
+
+---
+
 ## Quick highlights
 - ✅ **Top 4%** on TryHackMe — hands-on pentesting and security labs.  
 - 💻 Full-stack: **Spring Boot**, **Angular**, **React Native**, **Node JS**.  
