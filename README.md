@@ -1,6 +1,10 @@
 # Abdelkebir Bouchti 👋
 
-<img src"https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
+<p align="center">
+  <a href="https://tryhackme.com/p/abdlkbir.dacosta" target="_blank">
+    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2293298" alt="TryHackMe — abdlkbir.dacosta" width="280" />
+  </a>
+</p>
 
 **Master student in Distributed Systems & AI • Cybersecurity enthusiast • Full-Stack developer**
 
